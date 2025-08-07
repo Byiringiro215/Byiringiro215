@@ -64,7 +64,7 @@
 ## 🌍 Connect With Me
 
 - 🖥️ Portfolio (Coming soon)
-- 🐦 Twitter: [[@Byiringiro_Emm](https://twitter.com/Byiringiro_Emm)](https://x.com/BYIRINGIRO215)
+- 🐦 X: [[@Byiringiro_Emm](https://twitter.com/Byiringiro_Emm)](https://x.com/BYIRINGIRO215)
 - 💼 LinkedIn: [[LinkedIn](https://linkedin.com)](https://www.linkedin.com/in/emmanuel-byiringiro-291a5936a/)
 - 💌 Email: `byiringiroemmanuel215@gmail.com`
 
