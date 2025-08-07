@@ -10,12 +10,15 @@
 ---
 
 ## 🧠 About Me
+💻 I craft modern frontend and mobile experiences, blending logic and design into futuristic flows.
 
-- 💻 I specialize in **modern frontend and mobile development** with a futuristic design mindset.
-- 🚀 Currently building **AI-integrated platforms** with strong UI/UX practices.
-- 🎨 Skilled in UI design, responsive layouts, performance optimization, and system-level thinking.
-- 🧩 I'm a student at Rwanda Coding Academy, graduating in 2027.
-- 🌍 I’m building a digital empire with real code, real design, and real impact.
+🚀 Currently engineering AI-powered platforms, where intuition meets intelligence in every UI.
+
+🎨 Adept in visual storytelling — from responsive grids to performance-tuned pixels and scalable systems.
+
+🧩 A proud student of Rwanda Coding Academy, sharpening my tools to graduate as a digital visionary by 2027.
+
+🌍 Building not just apps, but a code-driven legacy — one commit, one design, one disruption at a time.
 
 ---
 
@@ -43,21 +46,11 @@
 ### ⚡ Tools & Frameworks
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=react)
+![Radix UI](https://img.shields.io/badge/-Radix%20UI-000000?style=flat-square&logo=radix-ui)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
-
----
-
-## 💡 Current Projects
-
-- 🔮 **LifePlot** – AI-driven economic life forecasting system.
-- 📚 **Library Management System** – Built in C with file manipulation and GTK GUI.
-- 🌐 **AI Career Coach** – React + NestJS platform for resume scoring, skill analysis, and mock interviews.
-- 🎯 **UI Portfolio** – Crafting a portfolio with **glassmorphism, dark mode, and futuristic design**.
-
----
 
 ## 📊 GitHub Stats
 
@@ -71,15 +64,15 @@
 ## 🌍 Connect With Me
 
 - 🖥️ Portfolio (Coming soon)
-- 🐦 Twitter: [@Byiringiro_Emm](https://twitter.com/Byiringiro_Emm)
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com)
+- 🐦 Twitter: [[@Byiringiro_Emm](https://twitter.com/Byiringiro_Emm)](https://x.com/BYIRINGIRO215)
+- 💼 LinkedIn: [[LinkedIn](https://linkedin.com)](https://www.linkedin.com/in/emmanuel-byiringiro-291a5936a/)
 - 💌 Email: `byiringiroemmanuel215@gmail.com`
 
 ---
 
 ## ✨ Motto
 
-> 💬 *“Dreams over drama. Growth over gossip. Building a kingdom, not a clique.”*
+💬 “Code with faith, build with purpose, and leave a legacy that honors God.”
 
 ---
 
