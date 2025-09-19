@@ -44,13 +44,16 @@
 ![C Language](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 
 ### ⚡ Tools & Frameworks
+
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=react)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer)
 ![Radix UI](https://img.shields.io/badge/-Radix%20UI-000000?style=flat-square&logo=radix-ui)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
+
 
 ## 📊 GitHub Stats
 
