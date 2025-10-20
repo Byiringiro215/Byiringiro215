@@ -32,6 +32,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo)
 ![NativeWind](https://img.shields.io/badge/-NativeWind-06B6D4?style=flat-square&logo=tailwindcss)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
 
 ### 💅 Styling
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
