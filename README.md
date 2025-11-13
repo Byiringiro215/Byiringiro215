@@ -10,7 +10,7 @@
 ---
 
 ## 🧠 About Me
-💻 Co-founder of **[Blink-Tech](https://www.blinktechnologiz.com)**.
+💻 Co-founder at **[Blink-Tech](https://www.blinktechnologiz.com)**.
 
 💻 I craft modern frontend and mobile experiences, blending logic and design into futuristic flows.
 
