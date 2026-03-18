@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm BYIRINGIRO Emmanuel</h1>
-<h3 align="center">🚀 Fullstack Web & Mobile Developer | Building Scalable Systems & Stunning User Experiences</h3>
+<h3 align="center">🚀 Fullstack Web & Mobile applications 10X Engineer  | Building Scalable Systems & Stunning User Experiences</h3>
 
 ---
 
