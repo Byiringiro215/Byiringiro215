@@ -34,6 +34,8 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte)
 
 ### 💅 Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
@@ -46,12 +48,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite)
 
 ### ⚡ Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 ![C Language](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 
@@ -61,6 +65,9 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui)
 ![Radix UI](https://img.shields.io/badge/-Radix%20UI-000000?style=flat-square&logo=radix-ui)
+![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla)
+![SSMS](https://img.shields.io/badge/-SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry)
 
 ---
@@ -84,7 +91,7 @@
 
 ## ✨ Motto
 
-💬 “Code with faith, build with purpose, and leave a legacy that honors God.”
+💬 "Code with faith, build with purpose, and leave a legacy that honors God."
 
 ---
 
