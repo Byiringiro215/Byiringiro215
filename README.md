@@ -6,6 +6,5 @@ Currently building products at **Blink Technologiz**.
 
 More about me:
 
-- Portfolio
-- LinkedIn
-- X (Twitter)
+- 🌐 Portfolio: https://emmanuel.byiringiro.workers.dev/
+- 📧 Email: emmabyiringiro215@gmail.com
